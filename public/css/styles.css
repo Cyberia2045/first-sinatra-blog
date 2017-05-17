@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box; }
+
+body {
+  background-color: teal;
+  font-family: "Futura";
+  color: white; }
+
+.main-heading {
+  text-align: center; }
+
+.blog-form-container {
+  display: flex;
+  justify-content: space-around;
+  margin: 0 auto; }
+
+/*# sourceMappingURL=styles.css.map */
